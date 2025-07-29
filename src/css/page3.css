@@ -1,0 +1,12 @@
+.content{
+    background: bisque;
+}
+.header{
+    background: blue;
+}
+.body{
+    background: rgb(125, 125, 160);
+}
+.footer{
+    background: violet;
+}
