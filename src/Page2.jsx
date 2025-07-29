@@ -10,7 +10,7 @@ export default class  extends Component {
         <h1>Hello This is Page2</h1>
         <Link to="/">Go to home</Link>
         <br></br>
-        <br></br>
+        <br></br>w
         <Link to="/Page2">Go to Page2</Link>
       </div>
     )

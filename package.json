@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.io/sharvandeep/frontendproject2",
+  "homepage": "https://sharvandeep.github.io/frontend3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
